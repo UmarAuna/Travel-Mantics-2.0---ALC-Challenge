@@ -51,6 +51,6 @@
         app:layout_constraintTop_toBottomOf="@+id/tvDescription"
         android:layout_marginRight="@dimen/text_margin_standard"
         android:textSize="@dimen/text_price"
-        android:textColor="@color/colorAccent"
+        android:textColor="#FF3D00"
         />
 </androidx.constraintlayout.widget.ConstraintLayout>
